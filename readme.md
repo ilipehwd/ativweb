@@ -1,1 +1,1 @@
-Trabalho prático 1 adicionado ao github
+Trabalho prático 1 adicionado ao github.
