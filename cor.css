@@ -1,0 +1,45 @@
+body{
+    background-color:#696969;
+    font-size:20px;
+}
+#cabecalho {
+text-align:center;
+font-size: 25px;
+}
+#imgcabecalho{
+width:200x;
+height:200px;
+}
+#linhacbclh{
+background-color: orange;
+text-align: center;
+display: block;
+font-size: 25px;
+}
+a {
+text-decoration: none;
+color: royalblue;
+}
+#primeiradiv {
+font-family:cursive;
+font-size: 18px;
+background-color:orange;
+width:70%;
+height:40%;
+padding:20px;
+}
+#segundadiv {
+font-family:cursive;
+font-size: 18px;
+background-color:#1E90FF;
+width:70%;
+height:40%;
+padding:20px;
+}
+.boxcabecalho {
+    background-color:#1C1C1C;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin:-5px;
+    padding-bottom:20x;
+}
