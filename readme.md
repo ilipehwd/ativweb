@@ -15,6 +15,7 @@
 * [CSS](CSS)
 * [PYTHON](CSS)
 
+<h2>Para acessar o projeto basta entrar no <a href='https://ilipehwd.github.io/site-html-e-css/'>site sobre html</a>.</h2>
 <h4>Caso você quiser ajuda ao consultar o projeto, você pode encontrar em contato comigo via discord: ilipe#2475</h4>
 
 # Autor
