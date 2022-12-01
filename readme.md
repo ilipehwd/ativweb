@@ -1,4 +1,3 @@
-<h1>Atividade 18 - Hospedagem na nuvem</h1>
 
 ![logo inicial](https://user-images.githubusercontent.com/118455180/205037765-5005c7b4-b9ef-427c-8ef1-810fc9ac70e3.png)
 
