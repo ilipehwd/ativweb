@@ -1,2 +1,2 @@
-<h1 align='center'>Atividade 18 - Hospedagem na nuvem</h1>
-<h4> Atividade desenvolvida na aula de web no ifmg Sabará. Site feito para explicar o que é HTML e CSS</h4>
+<h1>Atividade 18 - Hospedagem na nuvem</h1>
+<h4>Projeto desenvolvido a partir da atividade de web do ifmg Sabará.<br> O Projeto tem como foco explicar como funciona o html e o css.</h4>
