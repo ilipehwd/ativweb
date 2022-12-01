@@ -23,5 +23,5 @@ Projeto desenvolvido a partir da atividade de web do ifmg Sabará.<br> O Projeto
 <h4>Caso você quiser ajuda ao consultar o projeto, você pode entrar em contato comigo via discord: ilipe#2475</h4>
 
 # Autor
-| [<img src="https://avatars.githubusercontent.com/u/118455180?s=400&u=deb36b10cea98d9b5575d35c09a5358d101a9a39&v=4" width=115><br><sub>Felipe de Sousa</sub>](https://github.com/ilipehwd) |
+| [<img src="https://avatars.githubusercontent.com/u/118455180?s=400&u=deb36b10cea98d9b5575d35c09a5358d101a9a39&v=4" width=115><br><sub>Felipe de Sousa :v:</sub>](https://github.com/ilipehwd) |
 | :---: |
