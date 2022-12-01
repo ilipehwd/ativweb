@@ -10,14 +10,14 @@ Projeto desenvolvido a partir da atividade de web do ifmg Sabará.<br> O Projeto
 
 # 🖥️ Tecnologias utilizadas
 
-* [HTML](HTML)
-* [CSS](CSS)
+* [HTML](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
 
 # 📖 Tópicos abordados
 
-* [HTML](HTML)
-* [CSS](CSS)
-* [PYTHON](CSS)
+* [HTML](https://www.w3schools.com/html/default.asp)
+* [CSS](https://www.w3schools.com/css/default.asp)
+* [PYTHON](https://www.w3schools.com/python/default.asp)
 
 <h2>Para acessar o projeto basta entrar no <a href='https://ilipehwd.github.io/site-html-e-css/'>site</a> sobre o html.</h2>
 <h4>Caso você quiser ajuda ao consultar o projeto, você pode entrar em contato comigo via discord: ilipe#2475</h4>
