@@ -1,6 +1,11 @@
-
 ![logo inicial](https://user-images.githubusercontent.com/118455180/205037765-5005c7b4-b9ef-427c-8ef1-810fc9ac70e3.png)
 
+<div align='center'>
+            
+![finalizado](https://img.shields.io/badge/Status-Finalizado-green)
+![releasedate](https://img.shields.io/badge/release%20date-november-blue)
+
+</div>
 Projeto desenvolvido a partir da atividade de web do ifmg Sabará.<br> O Projeto tem como foco explicar como funciona o html e o css.
 
 # 🖥️ Tecnologias utilizadas
