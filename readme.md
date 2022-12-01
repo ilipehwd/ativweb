@@ -1,2 +1,2 @@
-<h1 align='center'> Comando vermelho, rl até o fim </h1>
-![cvrl](https://user-images.githubusercontent.com/118455180/205028882-1c20173b-3570-45ba-a6c6-a9f5bc4bb4ec.png)
+<h1 align='center'>Atividade 18 - Hospedagem na nuvem</h1>
+<h4> Atividade desenvolvida na aula de web no ifmg Sabará. Site feito para explicar o que é HTML e CSS</h4>
