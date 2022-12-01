@@ -2,7 +2,7 @@
 
 <div align='center'>
             
-![finalizado](https://img.shields.io/badge/Status-Finalizado-green)
+![em desenvolvimento](https://img.shields.io/badge/Status-Em%20desenvolvimento-green)
 ![releasedate](https://img.shields.io/badge/release%20date-november-blue)
 
 </div>
